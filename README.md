@@ -11,12 +11,11 @@
 - 📫 How to reach me: **shudens0@gmail.com**  
 - 💬 Discord: **shudens0**
 
-<h3 align="left">Connect with me:</h3>
+## Contact Me
+
 <p align="left">
-  <a href="mailto:shudens0@gmail.com" target="_blank">
-    <img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg"
-      height="30" width="40" />
+  <a href="https://www.instagram.com/legencoding/" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="40" />
   </a>
 </p>
 
